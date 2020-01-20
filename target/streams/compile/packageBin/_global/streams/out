@@ -2,10 +2,14 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Problem1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	even_fib_calc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/even_fib_calc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Problem2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Problem2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Problem1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kevin/Dropbox/Github/Project_Euler/target/scala-2.12/classes/Problem1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

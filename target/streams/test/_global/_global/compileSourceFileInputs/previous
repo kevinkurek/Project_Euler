@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/Users/kevin/Dropbox/Github/Project_Euler/src/test/scala/ProblemCheck.scala","5e797944c2781aa6acc9573503f151507197149a"]],"lastModifiedTimes":[]}}]

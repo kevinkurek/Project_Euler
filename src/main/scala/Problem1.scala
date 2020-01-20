@@ -7,7 +7,7 @@ object Problem1 {
   def theSum(num:Int): Int = (0 until num).toList.filter(i => i % 3 == 0 | i % 5 == 0).sum
 
   def main(args: Array[String]): Unit= {
-    println(theSum(10))
+    println(theSum(100))
   }
 
 }

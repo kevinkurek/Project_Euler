@@ -1,6 +1,2 @@
 [0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/kevin/Dropbox/Github/Project_Euler/project/target/.sbt-compilation-infos/project_euler-compile/.sbt-idea-lock ...[0m
-[0m[[0m[31merror[0m] [0m[0m/Users/kevin/Dropbox/Github/Project_Euler/src/main/scala/Problem2.scala:3:6: classes cannot be lazy[0m
-[0m[[0m[31merror[0m] [0m[0mlazy val fibs:Stream[Int] = 0 #:: fibs.foldLeft(1)(_+_)[0m
-[0m[[0m[31merror[0m] [0m[0m     ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
 [0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/kevin/Dropbox/Github/Project_Euler/project/target/.sbt-compilation-infos/project_euler-compile/.sbt-idea-lock.[0m

@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/kevin/Dropbox/Github/Project_Euler/build.sbt","201cfb391999780044dcc9484279e4ee2c879a37"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/kevin/Dropbox/Github/Project_Euler/build.sbt","51f200d5cea6473849d9303ed5e9362d011e8532"],["/Users/kevin/Dropbox/Github/Project_Euler/project/plugins.sbt","899b346e9658310e98e4e4d4cd4e9eedea2f46d6"]],"lastModifiedTimes":[]}]

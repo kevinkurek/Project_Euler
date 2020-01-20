@@ -1,2 +1,2 @@
 # Project_Euler
-Project Euler Problems
+Project Euler Problems in Scala

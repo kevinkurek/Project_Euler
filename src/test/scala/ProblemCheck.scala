@@ -10,4 +10,8 @@ class ProblemCheck extends FlatSpec with Matchers {
     Problem2.theAns(4000000) should be (4613732)
     }
 
+  "Problem 3 with value of 13195" should "give the answer 29." in {
+    Problem3.prime_factors(n = 13195) should be (29)
+  }
+
 }
